@@ -408,6 +408,7 @@ Visit [issues](https://github.com/stascorp/rdpwrap/issues) section, and check wh
 - 10.0.17134.1 (Windows 10 Build 160101.0800)
 - 10.0.17723.1000 (Windows 10 Build 160101.0800)
 - 10.0.17763.1 (Windows 10 Build 160101.0800)
+- 10.0.22621.4655 (Windows 11 Build 22635.4655)
 
 #### Confirmed working on:
 - Windows Vista Starter (x86 - Service Pack 1 and higher)
@@ -447,6 +448,7 @@ Visit [issues](https://github.com/stascorp/rdpwrap/issues) section, and check wh
 - Windows 10 Pro
 - Windows 10 Enterprise
 - Windows Server 2016 Technical Preview
+- Windows 11 Pro
 
 Installation instructions:
 - Download latest release binaries and unpack files
